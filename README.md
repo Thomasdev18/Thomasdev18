@@ -13,7 +13,7 @@
 [![](https://visitcount.itsvg.in/api?id=ThomasDev18&icon=0&color=6)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/https://ko-fi.com/tsscripts) 
+  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/tsscripts) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
